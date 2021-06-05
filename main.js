@@ -5,7 +5,9 @@ var validation = new Validation();
 function getEle(id) {
   return document.getElementById(id);
 }
-
+function addUser() {
+  console.log("New feature add user của khang2");
+}
 // lấy data từ localStorage:
 getLocalStorage();
 
