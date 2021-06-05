@@ -6,6 +6,10 @@ function getEle(id) {
   return document.getElementById(id);
 }
 
+function addUser() {
+  console.log("New feature add user");
+}
+
 // lấy data từ localStorage:
 getLocalStorage();
 
