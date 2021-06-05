@@ -8,11 +8,6 @@ function getEle(id) {
 function addUser() {
   console.log("New feature add user của khang2");
 }
-
-function addUser() {
-  console.log("New feature add user");
-}
-
 // lấy data từ localStorage:
 getLocalStorage();
 
